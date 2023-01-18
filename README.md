@@ -1,4 +1,4 @@
-# CRC Cloud - Runs Containers in the Cloud
+# CRC Cloud - Runs a Cluster in the Cloud
 
 ### Disposable OpenShift instances on cloud in minutes
 
